@@ -1,0 +1,27 @@
+.projectTop {
+    background-color: #adabab;
+    width: 100%;
+}
+
+.projectBottom {
+    background-color: #cbcbcb;
+    width: 100%;
+}
+
+.projectButton {
+    background-color: gray;
+    border: none;
+    margin: 25px 0px;
+    height: 35px;
+    width: 75px;
+}
+
+
+.project {
+    width: 250px;
+    background-color: #f7f7f7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}

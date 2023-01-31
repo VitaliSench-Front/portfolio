@@ -1,0 +1,23 @@
+.freelance {
+    min-height: 10vh;
+    background-color: #fafa9d;
+}
+
+.freelanceContainer {
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.title {
+    background-color: #adabab;
+}
+
+.freelanceButton {
+    background-color: gray;
+    width: 95px;
+    height: 35px;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+}

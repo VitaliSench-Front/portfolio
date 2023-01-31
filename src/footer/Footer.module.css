@@ -1,0 +1,27 @@
+.footer {
+    min-height: 30vh;
+    background-color: #bcea97;
+}
+
+.footerContainer {
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.title {
+    background-color: #adabab;
+}
+
+.icons {
+    border: 1px solid;
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.label {
+    background-color: #adabab;
+    font-weight: bold;
+    font-size: 20px;
+}

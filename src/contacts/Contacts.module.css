@@ -1,0 +1,32 @@
+.contactsBlock {
+    height: 50vh;
+    background-color: #faacac;
+}
+
+.contactsContainer {
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.title {
+    background-color: #adabab;
+}
+
+.contactsForm {
+    border: 1px solid;
+    width: 240px;
+    height: 150px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.contactsButton {
+    background-color: gray;
+    border: none;
+    width: 95px;
+    height: 35px;
+    font-size: 15px;
+    font-weight: bold;
+}
